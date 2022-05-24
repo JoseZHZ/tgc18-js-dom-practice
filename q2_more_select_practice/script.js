@@ -1,4 +1,10 @@
 // PLACE YOUR CODE HERE
+let header2 = document.querySelector('h2')
+let highlight = document.querySelector('.highlight')
+let spanHighlight = document.querySelector('span.highlight')
+let finished = document.querySelector('.finished')
+let firstParagraph = document.querySelector('p')
+let emphasisParagraph = document.querySelector('p.emphasis')
 
 // REPLACE THE NULL ON EACH LINE BELOW WITH YOUR ANSWER
 // DO NOT CHANGE THE VARIABLE NAMES
